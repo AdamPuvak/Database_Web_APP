@@ -41,8 +41,7 @@ Detailed View: Clicking on a laureate's name opens a detailed page with more inf
 Users can log in via either a custom registration form (using email and password) or by using their Google account.
 Authentication and Two-Factor Authentication (2FA) are handled using Firebase.
 
-The custom registration includes email validation and password encryption (using secure hashing algorithms),
-and Firebase manages the authentication flow..
+Custom registration includes email validation and password encryption (using secure hashing algorithms) and Firebase manages the authentication flow.
 
 Once logged in, the user can:
 
